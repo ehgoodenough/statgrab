@@ -13,6 +13,12 @@ statgrab(function(stats) {
 })
 ```
 
+or
+
+```js
+var statgrab = require("statgrab/do")
+```
+
 ### License ###
 
 This package is licensed under ISC.

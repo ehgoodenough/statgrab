@@ -1,8 +1,8 @@
 {
   "name": "statgrab",
-  "version": "1.0.0",
-  "main": "index.js",
-  "description": "Grabs your stats.json.",
+  "version": "1.2.0",
+  "main": "main.js",
+  "description": "Grabs your `stats.json`.",
   "author": "Andrew McPherson <@ehgoodenough>",
   "license": "ISC",
   "repository": {
