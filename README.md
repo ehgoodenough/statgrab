@@ -7,16 +7,14 @@ Particularly useful when used with webpack, which has plugins like [stats-webpac
 ### Usage ###
 
 ```js
-var statgrab = require("statgrab")
-statgrab(function(stats) {
-    console.log(stats)
-})
+const statgrab = require("statgrab")
+statgrab((stats) => console.log(stats))
 ```
 
 or
 
 ```js
-var statgrab = require("statgrab/do")
+require("statgrab/do")
 ```
 
 ### License ###
