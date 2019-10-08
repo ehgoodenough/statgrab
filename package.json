@@ -1,6 +1,6 @@
 {
   "name": "statgrab",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "main.js",
   "description": "Grabs your `stats.json`.",
   "author": "Andrew McPherson <@ehgoodenough>",
@@ -10,7 +10,7 @@
     "url": "https://github.com/ehgoodenough/statgrab"
   },
   "dependencies": {
-    "microajax": "^1.0.3",
-    "strip-ansi": "^3.0.1"
+    "fetchquest": "^1.1.0",
+    "strip-ansi": "^5.2.0"
   }
 }
